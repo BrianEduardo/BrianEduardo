@@ -11,8 +11,7 @@
 
 <p align="center">
 <img width=300 src="https://skillicons.dev/icons?i=html,css,js,figma,photoshop,vue,angular,supabase&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=BrianEduardo&show_icons=true&theme=ocean_dark"/>
 </p>
-
-![Brian Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianEduardo&show_icons=true&theme=ocean_dark )
 
 </center>
