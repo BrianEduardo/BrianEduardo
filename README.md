@@ -7,7 +7,8 @@
 <img  width="500"src="banner.png"/>
 
 </p>
-<h3 align="center">Soy un desarrollador Fron-end Jr y Diseñador UI en crecimiento. En busca de oportunidades para crecer, mejorar y colaborar en proyectos innovadores. 🚀</h3> 
+<h3 align="center">Soy un desarrollador Fron-end Jr y Diseñador UI en crecimiento.</h3> 
+<h3>En busca de oportunidades para crecer, mejorar y colaborar en proyectos innovadores. 🚀</h3> 
 
 <p align="center">
 <img width=300 src="https://skillicons.dev/icons?i=html,css,js,figma,photoshop,vue,angular,supabase&theme=dark" />
