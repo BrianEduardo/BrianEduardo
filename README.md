@@ -11,7 +11,7 @@
 En busca de oportunidades para crecer, mejorar y colaborar en proyectos innovadores. 🚀</h3> 
 
 <p align="center">
-<img width=300 src="https://skillicons.dev/icons?i=html,css,js,figma,photoshop,vue,angular,supabase&theme=dark" />
+<img width=300 src="https://skillicons.dev/icons?i=html,css,js,figma,photoshop,vue,supabase&theme=dark" />
 </p>
 
 <div align="center">
